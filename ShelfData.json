@@ -1,0 +1,630 @@
+{
+  "data": {
+    "stores": [
+      {
+        "shelves": [
+          {
+            "id": "232",
+            "externalReferenceId": "2",
+            "shelfLayers": [
+              {
+                "shelfId": 232,
+                "level": 6,
+                "id": "85",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 232,
+                "level": 5,
+                "id": "86",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 232,
+                "level": 4,
+                "id": "87",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 232,
+                "level": 3,
+                "id": "88",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 232,
+                "level": 2,
+                "id": "89",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 232,
+                "level": 1,
+                "id": "90",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "233",
+            "externalReferenceId": "9",
+            "shelfLayers": [
+              {
+                "shelfId": 233,
+                "level": 6,
+                "id": "91",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 233,
+                "level": 5,
+                "id": "92",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 233,
+                "level": 4,
+                "id": "93",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 233,
+                "level": 3,
+                "id": "94",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 233,
+                "level": 2,
+                "id": "95",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 233,
+                "level": 1,
+                "id": "96",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "234",
+            "externalReferenceId": "12",
+            "shelfLayers": [
+              {
+                "shelfId": 234,
+                "level": 5,
+                "id": "97",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 234,
+                "level": 4,
+                "id": "98",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 234,
+                "level": 3,
+                "id": "99",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 234,
+                "level": 2,
+                "id": "100",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 234,
+                "level": 1,
+                "id": "101",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "235",
+            "externalReferenceId": "1",
+            "shelfLayers": [
+              {
+                "shelfId": 235,
+                "level": 5,
+                "id": "102",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 235,
+                "level": 4,
+                "id": "103",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 235,
+                "level": 3,
+                "id": "104",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 235,
+                "level": 2,
+                "id": "105",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 235,
+                "level": 1,
+                "id": "106",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "236",
+            "externalReferenceId": "13",
+            "shelfLayers": [
+              {
+                "shelfId": 236,
+                "level": 6,
+                "id": "107",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 236,
+                "level": 5,
+                "id": "108",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 236,
+                "level": 4,
+                "id": "109",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 236,
+                "level": 3,
+                "id": "110",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 236,
+                "level": 2,
+                "id": "111",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 236,
+                "level": 1,
+                "id": "112",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "237",
+            "externalReferenceId": "7",
+            "shelfLayers": [
+              {
+                "shelfId": 237,
+                "level": 4,
+                "id": "113",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 237,
+                "level": 3,
+                "id": "114",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 237,
+                "level": 2,
+                "id": "115",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 237,
+                "level": 1,
+                "id": "116",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "238",
+            "externalReferenceId": "6",
+            "shelfLayers": [
+              {
+                "shelfId": 238,
+                "level": 5,
+                "id": "117",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 238,
+                "level": 4,
+                "id": "118",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 238,
+                "level": 3,
+                "id": "119",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 238,
+                "level": 2,
+                "id": "120",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 238,
+                "level": 1,
+                "id": "121",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "239",
+            "externalReferenceId": "14",
+            "shelfLayers": [
+              {
+                "shelfId": 239,
+                "level": 6,
+                "id": "122",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 239,
+                "level": 5,
+                "id": "123",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 239,
+                "level": 4,
+                "id": "124",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 239,
+                "level": 3,
+                "id": "125",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 239,
+                "level": 2,
+                "id": "126",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 239,
+                "level": 1,
+                "id": "127",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "240",
+            "externalReferenceId": "16",
+            "shelfLayers": [
+              {
+                "shelfId": 240,
+                "level": 5,
+                "id": "128",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 240,
+                "level": 4,
+                "id": "129",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 240,
+                "level": 3,
+                "id": "130",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 240,
+                "level": 2,
+                "id": "131",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 240,
+                "level": 1,
+                "id": "132",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "241",
+            "externalReferenceId": "5",
+            "shelfLayers": [
+              {
+                "shelfId": 241,
+                "level": 6,
+                "id": "133",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 241,
+                "level": 5,
+                "id": "134",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 241,
+                "level": 4,
+                "id": "135",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 241,
+                "level": 3,
+                "id": "136",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 241,
+                "level": 2,
+                "id": "137",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 241,
+                "level": 1,
+                "id": "138",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "242",
+            "externalReferenceId": "3",
+            "shelfLayers": []
+          },
+          {
+            "id": "243",
+            "externalReferenceId": "10",
+            "shelfLayers": []
+          },
+          {
+            "id": "244",
+            "externalReferenceId": "15",
+            "shelfLayers": [
+              {
+                "shelfId": 244,
+                "level": 6,
+                "id": "139",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 244,
+                "level": 5,
+                "id": "140",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 244,
+                "level": 4,
+                "id": "141",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 244,
+                "level": 3,
+                "id": "142",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 244,
+                "level": 2,
+                "id": "143",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 244,
+                "level": 1,
+                "id": "144",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "245",
+            "externalReferenceId": "19",
+            "shelfLayers": [
+              {
+                "shelfId": 245,
+                "level": 4,
+                "id": "145",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 245,
+                "level": 3,
+                "id": "146",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 245,
+                "level": 2,
+                "id": "147",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 245,
+                "level": 1,
+                "id": "148",
+                "externalReferenceId": "1"
+              },
+              {
+                "shelfId": 245,
+                "level": 5,
+                "id": "167",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 245,
+                "level": 6,
+                "id": "168",
+                "externalReferenceId": "6"
+              }
+            ]
+          },
+          {
+            "id": "246",
+            "externalReferenceId": "17",
+            "shelfLayers": [
+              {
+                "shelfId": 246,
+                "level": 5,
+                "id": "149",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 246,
+                "level": 4,
+                "id": "150",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 246,
+                "level": 3,
+                "id": "151",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 246,
+                "level": 2,
+                "id": "152",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 246,
+                "level": 1,
+                "id": "153",
+                "externalReferenceId": "1"
+              },
+              {
+                "shelfId": 246,
+                "level": 6,
+                "id": "169",
+                "externalReferenceId": "6"
+              }
+            ]
+          },
+          {
+            "id": "247",
+            "externalReferenceId": "8",
+            "shelfLayers": [
+              {
+                "shelfId": 247,
+                "level": 7,
+                "id": "154",
+                "externalReferenceId": "7"
+              },
+              {
+                "shelfId": 247,
+                "level": 6,
+                "id": "155",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 247,
+                "level": 5,
+                "id": "156",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 247,
+                "level": 4,
+                "id": "157",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 247,
+                "level": 3,
+                "id": "158",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 247,
+                "level": 2,
+                "id": "159",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 247,
+                "level": 1,
+                "id": "160",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "248",
+            "externalReferenceId": "4",
+            "shelfLayers": []
+          },
+          {
+            "id": "249",
+            "externalReferenceId": "11",
+            "shelfLayers": [
+              {
+                "shelfId": 249,
+                "level": 6,
+                "id": "161",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 249,
+                "level": 5,
+                "id": "162",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 249,
+                "level": 4,
+                "id": "163",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 249,
+                "level": 3,
+                "id": "164",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 249,
+                "level": 2,
+                "id": "165",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 249,
+                "level": 1,
+                "id": "166",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "250",
+            "externalReferenceId": "18",
+            "shelfLayers": []
+          }
+        ]
+      }
+    ]
+  }
+}

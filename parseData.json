@@ -1,0 +1,6036 @@
+{
+  "products": [
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "78.000",
+          "BRGEW": "231.000",
+          "E1WBB04": {
+            "EAN11": "8712561856447",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "5.89",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "187.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "39.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.569"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Body Derma Spa BL Sum. dunkel 200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "101",
+          "SHELF": "17",
+          "SORF": "17101",
+          "SORF1": "0000017101",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "01",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002270",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002270",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "78.000",
+          "BRGEW": "233.000",
+          "E1WBB04": {
+            "EAN11": "8712561855563",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "5.89",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "187.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "39.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.569"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Body Derma Spa Lotion Intensiv200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "102",
+          "SHELF": "17",
+          "SORF": "17102",
+          "SORF1": "0000017102",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "02",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002271",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002271",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "92.000",
+          "BRGEW": "356.000",
+          "E1WBB04": {
+            "EAN11": "40133218",
+            "EANTP": "HK",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "8.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "92.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "70.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.592"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Body Derma Spa Creme int.verw.300ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "103",
+          "SHELF": "17",
+          "SORF": "17103",
+          "SORF1": "0000017103",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "03",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002272",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002272",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "78.000",
+          "BRGEW": "235.000",
+          "E1WBB04": {
+            "EAN11": "8710908489150",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "5.89",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "184.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "40.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.574"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove DermaSpa Lotionp.Leichtigkeit 200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "104",
+          "SHELF": "17",
+          "SORF": "17104",
+          "SORF1": "0000017104",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "04",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002273",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002273",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "78.000",
+          "BRGEW": "230.000",
+          "E1WBB04": {
+            "EAN11": "8712561856300",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "5.89",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "187.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "39.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.569"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Body Derma Spa Lotion straff. 200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "105",
+          "SHELF": "17",
+          "SORF": "17105",
+          "SORF1": "0000017105",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "05",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002274",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002274",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "78.000",
+          "BRGEW": "222.000",
+          "E1WBB04": {
+            "EAN11": "8710908489532",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "5.89",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "184.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "40.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.574"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove DermaSpa       Lotion Kaschmir200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "106",
+          "SHELF": "17",
+          "SORF": "17106",
+          "SORF1": "0000017106",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "06",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002275",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002275",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "92.000",
+          "BRGEW": "338.000",
+          "E1WBB04": {
+            "EAN11": "40133249",
+            "EANTP": "HK",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "8.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "92.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "70.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.592"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove DermaSpa       Creme Kaschmir 300ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "107",
+          "SHELF": "17",
+          "SORF": "17107",
+          "SORF1": "0000017107",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "07",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002276",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002276",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "68.000",
+          "BRGEW": "448.000",
+          "E1WBB04": {
+            "EAN11": "8710908769153",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "49.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.700"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Bodylotion     Hydro          400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "108",
+          "SHELF": "17",
+          "SORF": "17108",
+          "SORF1": "0000017108",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "08",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002277",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002277",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "68.000",
+          "BRGEW": "444.000",
+          "E1WBB04": {
+            "EAN11": "8710908768507",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "49.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.700"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Bodymilk       Reichhaltig    400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              1.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "109",
+          "SHELF": "17",
+          "SORF": "17109",
+          "SORF1": "0000017109",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "09",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002278",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002278",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "68.000",
+          "BRGEW": "462.000",
+          "E1WBB04": {
+            "EAN11": "8710908769221",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "49.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.700"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Bodylotion     Pist.+Magnolie 400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "110",
+          "SHELF": "17",
+          "SORF": "17110",
+          "SORF1": "0000017110",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "10",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002279",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002279",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "68.000",
+          "BRGEW": "465.000",
+          "E1WBB04": {
+            "EAN11": "8710908768910",
+            "EANTP": "HE",
+            "HPEAN": ""
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "49.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.700"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Bodylotion     Shea Butter    400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "171",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "111",
+          "SHELF": "17",
+          "SORF": "17111",
+          "SORF1": "0000017111",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "11",
+          "shelfLayerId": "1"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002280",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002280",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "210.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "47.000",
+          "BRGEW": "210.000",
+          "E1WBB04": {
+            "EAN11": "4010355059666",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.89",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "47.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.464"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodyspray Golden Shine",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "201",
+          "SHELF": "17",
+          "SORF": "17201",
+          "SORF1": "0000017201",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "01",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002281",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002281",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "75.000",
+          "BRGEW": "221.000",
+          "E1WBB04": {
+            "EAN11": "4010355059642",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "180.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "47.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.635"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodylotion    Golden Shine   200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "202",
+          "SHELF": "17",
+          "SORF": "17202",
+          "SORF1": "0000017202",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "02",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002282",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002282",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "47.000",
+          "BRGEW": "227.000",
+          "E1WBB04": {
+            "EAN11": "4010355340955",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "183.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "47.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.404"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodyspray     Bahamas Dream  200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "203",
+          "SHELF": "17",
+          "SORF": "17203",
+          "SORF1": "0000017203",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "03",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002283",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002283",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "77.000",
+          "BRGEW": "223.000",
+          "E1WBB04": {
+            "EAN11": "4010355319548",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.49",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "172.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.662"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea K\u00f6rperlotion  Bahamas Dream  200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "204",
+          "SHELF": "17",
+          "SORF": "17204",
+          "SORF1": "0000017204",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "04",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002284",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002284",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "80.000",
+          "BRGEW": "106.000",
+          "E1WBB04": {
+            "EAN11": "4010355343345",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "150.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "25.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.300"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea K\u00f6rperlotion  Sommerwonne    100ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              3.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "205",
+          "SHELF": "17",
+          "SORF": "17205",
+          "SORF1": "0000017205",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "05",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002285",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002285",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "67.000",
+          "BRGEW": "37.000",
+          "E1WBB04": {
+            "EAN11": "4010355346490",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "14.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "67.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "MTQ",
+          "VOLUM": "62.846"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Pflegecreme   Kirsche&amp;Kokos  30ml#",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "206",
+          "SHELF": "17",
+          "SORF": "17206",
+          "SORF1": "0000017206",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "06",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002286",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002286",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "67.000",
+          "BRGEW": "37.000",
+          "E1WBB04": {
+            "EAN11": "4010355346513",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "14.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "67.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "MTQ",
+          "VOLUM": "62.846"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Pflegecreme   Vanille&amp;Marshm.30ml#",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "207",
+          "SHELF": "17",
+          "SORF": "17207",
+          "SORF1": "0000017207",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "07",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002287",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002287",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "50.000",
+          "BRGEW": "186.000",
+          "E1WBB04": {
+            "EAN11": "4260484410016",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "156.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.390"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "bilou Cremeschaum   Lotion T.Donut 150ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "208",
+          "SHELF": "17",
+          "SORF": "17208",
+          "SORF1": "0000017208",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "08",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002288",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002288",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "50.000",
+          "BRGEW": "186.000",
+          "E1WBB04": {
+            "EAN11": "4260484410092",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "156.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.390"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "bilou Cremeschaum   Slushy Apple   150ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "209",
+          "SHELF": "17",
+          "SORF": "17209",
+          "SORF1": "0000017209",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "09",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002289",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002289",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "50.000",
+          "BRGEW": "186.000",
+          "E1WBB04": {
+            "EAN11": "4260484410054",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "156.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.390"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "bilou Cremeschaum   Cotton Candy   150ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "210",
+          "SHELF": "17",
+          "SORF": "17210",
+          "SORF1": "0000017210",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "10",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002290",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002290",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "50.000",
+          "BRGEW": "186.000",
+          "E1WBB04": {
+            "EAN11": "4260484410030",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "156.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.390"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "bilou Cremeschaum   Lotion F.Berry 150ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "211",
+          "SHELF": "17",
+          "SORF": "17211",
+          "SORF1": "0000017211",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "11",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002291",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002291",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "67.000",
+          "BRGEW": "463.000",
+          "E1WBB04": {
+            "EAN11": "8710908776519",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "49.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.689"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove PflegegeheimnisLot. Avocado\u00f6l 400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "212",
+          "SHELF": "17",
+          "SORF": "17212",
+          "SORF1": "0000017212",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "12",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002292",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002292",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "68.000",
+          "BRGEW": "463.000",
+          "E1WBB04": {
+            "EAN11": "8710908778148",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "49.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.700"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove PflegegeheimnisLot.Kokos+Mand.400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "213",
+          "SHELF": "17",
+          "SORF": "17213",
+          "SORF1": "0000017213",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "13",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002293",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002293",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "68.000",
+          "BRGEW": "463.000",
+          "E1WBB04": {
+            "EAN11": "8710908769085",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "49.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.700"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Dove Bodylotion     intensivePflege400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              4.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "172",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "214",
+          "SHELF": "17",
+          "SORF": "17214",
+          "SORF1": "0000017214",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "14",
+          "shelfLayerId": "2"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002294",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002294",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "68.000",
+          "BRGEW": "285.000",
+          "E1WBB04": {
+            "EAN11": "4010355323156",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "180.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "34.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.416"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Men sensitive Bodylotion     250ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "301",
+          "SHELF": "17",
+          "SORF": "17301",
+          "SORF1": "0000017301",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "01",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002295",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002295",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "78.000",
+          "BRGEW": "220.000",
+          "E1WBB04": {
+            "EAN11": "3600523349692",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "8.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "186.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.725"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Men Expert          Tattoo Bodylot.200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "302",
+          "SHELF": "17",
+          "SORF": "17302",
+          "SORF1": "0000017302",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "02",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002296",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002296",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "250.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "50.000",
+          "BRGEW": "250.000",
+          "E1WBB04": {
+            "EAN11": "4010355320568",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.49",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "200.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "HLT",
+          "VOLUM": "0.005"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Tattoo Pflegesalbe",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "303",
+          "SHELF": "17",
+          "SORF": "17303",
+          "SORF1": "0000017303",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "03",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002297",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002297",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "77.000",
+          "BRGEW": "223.000",
+          "E1WBB04": {
+            "EAN11": "4010355320582",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "173.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.666"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea        Tattoo-Pflegelotion   200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "304",
+          "SHELF": "17",
+          "SORF": "17304",
+          "SORF1": "0000017304",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "04",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002298",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002298",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "149.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "47.000",
+          "BRGEW": "149.000",
+          "E1WBB04": {
+            "EAN11": "4010355319180",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "147.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "47.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.325"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea BodyFIT       Straff.-Serum  100ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "305",
+          "SHELF": "17",
+          "SORF": "17305",
+          "SORF1": "0000017305",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "05",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002299",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002299",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "173.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "77.000",
+          "BRGEW": "173.000",
+          "E1WBB04": {
+            "EAN11": "4010355319203",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "173.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.666"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea BodyFIT       Cellulite Gel  200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "306",
+          "SHELF": "17",
+          "SORF": "17306",
+          "SORF1": "0000017306",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "06",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002300",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002300",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "443.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "85.000",
+          "BRGEW": "443.000",
+          "E1WBB04": {
+            "EAN11": "4010355319227",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.49",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "45.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.803"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea BodyFIT       Bodytonic      400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "307",
+          "SHELF": "17",
+          "SORF": "17307",
+          "SORF1": "0000017307",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "07",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002301",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002301",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "144.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "120.000",
+          "BRGEW": "144.000",
+          "E1WBB04": {
+            "EAN11": "4010355339324",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "200.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "25.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "HLT",
+          "VOLUM": "0.006"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea BodyFIT       Algenwickel   2x50ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "308",
+          "SHELF": "17",
+          "SORF": "17308",
+          "SORF1": "0000017308",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "08",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002302",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002302",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "55.000",
+          "BRGEW": "223.000",
+          "E1WBB04": {
+            "EAN11": "4010355135339",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "181.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "31.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "MTQ",
+          "VOLUM": "308.605"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea pflegendes    Body-Serum    200 ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "309",
+          "SHELF": "17",
+          "SORF": "17309",
+          "SORF1": "0000017309",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "09",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002303",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002303",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "221.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "57.000",
+          "BRGEW": "221.000",
+          "E1WBB04": {
+            "EAN11": "4010355059741",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "19.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "36.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.039"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Body Soft-\u00d6l-Balsam 200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "B1",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": "1"
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "310",
+          "SHELF": "17",
+          "SORF": "17310",
+          "SORF1": "0000017310",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "10",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002304",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002304",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "162.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "60.000",
+          "BRGEW": "162.000",
+          "E1WBB04": {
+            "EAN11": "4010355319425",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "4.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "155.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "40.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.372"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Body          Beauty-\u00d6l      150ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "173",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "311",
+          "SHELF": "17",
+          "SORF": "17311",
+          "SORF1": "0000017311",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "11",
+          "shelfLayerId": "3"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002305",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002305",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "66.000",
+          "BRGEW": "388.000",
+          "E1WBB04": {
+            "EAN11": "4010355246448",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "161.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "66.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.701"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodylotion    Kakao          350ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "401",
+          "SHELF": "17",
+          "SORF": "17401",
+          "SORF1": "0000017401",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "01",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002306",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002306",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "66.000",
+          "BRGEW": "388.000",
+          "E1WBB04": {
+            "EAN11": "4010355246462",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "161.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "66.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.701"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodylotion    Brauner Zucker 350ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "402",
+          "SHELF": "17",
+          "SORF": "17402",
+          "SORF1": "0000017402",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "02",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002307",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002307",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "50.000",
+          "BRGEW": "194.000",
+          "E1WBB04": {
+            "EAN11": "4010355323057",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "3.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "175.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "MTQ",
+          "VOLUM": "437.500"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Spray-On Mang.Hib. Bodyl.    150ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "             16.000",
+            "PRABE": "              3.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "403",
+          "SHELF": "17",
+          "SORF": "17403",
+          "SORF1": "0000017403",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "03",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002308",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002308",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "50.000",
+          "BRGEW": "230.000",
+          "E1WBB04": {
+            "EAN11": "4010355323071",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "187.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "MTQ",
+          "VOLUM": "467.500"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodyschaum    Vanilla Berry  200ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "             16.000",
+            "PRABE": "              4.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "404",
+          "SHELF": "17",
+          "SORF": "17404",
+          "SORF1": "0000017404",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "04",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002309",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002309",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "187.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "50.000",
+          "BRGEW": "187.000",
+          "E1WBB04": {
+            "EAN11": "4010355298102",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "187.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "50.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "CMQ",
+          "VOLUM": "467.500"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Wasserspray   AQUA           150ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "             24.000",
+            "PRABE": "              8.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "405",
+          "SHELF": "17",
+          "SORF": "17405",
+          "SORF1": "0000017405",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "05",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002310",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002310",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "85.000",
+          "BRGEW": "450.000",
+          "E1WBB04": {
+            "EAN11": "4010355341136",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "193.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "45.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.738"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Dusch         Soft-\u00d6l-Balsam 400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "406",
+          "SHELF": "17",
+          "SORF": "17406",
+          "SORF1": "0000017406",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "06",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002311",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002311",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "85.000",
+          "BRGEW": "442.000",
+          "E1WBB04": {
+            "EAN11": "4010355206824",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "193.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "45.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.738"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Dusch-BodymilkVanille&amp;Cocos  400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "407",
+          "SHELF": "17",
+          "SORF": "17407",
+          "SORF1": "0000017407",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "07",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002312",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002312",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "443.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "85.000",
+          "BRGEW": "443.000",
+          "E1WBB04": {
+            "EAN11": "4010355319364",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "45.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.803"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Vital         Bodylotion     400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "408",
+          "SHELF": "17",
+          "SORF": "17408",
+          "SORF1": "0000017408",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "08",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002313",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002313",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "438.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "86.000",
+          "BRGEW": "438.000",
+          "E1WBB04": {
+            "EAN11": "4010355346438",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "45.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.813"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodylotion    Magic Summer   400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "174",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "409",
+          "SHELF": "17",
+          "SORF": "17409",
+          "SORF1": "0000017409",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "09",
+          "shelfLayerId": "4"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002314",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002314",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "613.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "95.000",
+          "BRGEW": "613.000",
+          "E1WBB04": {
+            "EAN11": "4010355341792",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "226.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "70.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "1.503"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea leichte       Bodylotion     500ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "             16.000",
+            "PRABE": "              7.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "175",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "501",
+          "SHELF": "17",
+          "SORF": "17501",
+          "SORF1": "0000017501",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "01",
+          "shelfLayerId": "5"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002315",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002315",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "549.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "95.000",
+          "BRGEW": "549.000",
+          "E1WBB04": {
+            "EAN11": "4010355341815",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.39",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "226.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "70.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "1.503"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea reichhaltige  Bodymilk       500ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "             16.000",
+            "PRABE": "              8.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "175",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "502",
+          "SHELF": "17",
+          "SORF": "17502",
+          "SORF1": "0000017502",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "02",
+          "shelfLayerId": "5"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002316",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002316",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "85.000",
+          "BRGEW": "436.000",
+          "E1WBB04": {
+            "EAN11": "4010355319340",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "48.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.857"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea K\u00f6rperlotion  Butterm.&amp;Lemon 400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "175",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "503",
+          "SHELF": "17",
+          "SORF": "17503",
+          "SORF1": "0000017503",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "03",
+          "shelfLayerId": "5"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002317",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002317",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "436.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "85.000",
+          "BRGEW": "436.000",
+          "E1WBB04": {
+            "EAN11": "4010355319401",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "1.69",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "45.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.803"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodylotion    Cocos&amp;Sheanuss 400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              2.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "175",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "504",
+          "SHELF": "17",
+          "SORF": "17504",
+          "SORF1": "0000017504",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "04",
+          "shelfLayerId": "5"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002318",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002318",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "0.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "86.000",
+          "BRGEW": "442.000",
+          "E1WBB04": {
+            "EAN11": "4010355346414",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "KGM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "45.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "LTR",
+          "VOLUM": "0.813"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodylotion    Gl\u00fcckshauch    400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "             16.000",
+            "PRABE": "              4.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "175",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "505",
+          "SHELF": "17",
+          "SORF": "17505",
+          "SORF1": "0000017505",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "05",
+          "shelfLayerId": "5"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002319",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002319",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "443.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "47.000",
+          "BRGEW": "443.000",
+          "E1WBB04": {
+            "EAN11": "4010355319142",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.09",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "47.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.464"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodybalsam    Sensitive      400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              6.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "175",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "506",
+          "SHELF": "17",
+          "SORF": "17506",
+          "SORF1": "0000017506",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "06",
+          "shelfLayerId": "5"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002320",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002320",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "E1WBB02": {
+          "ATTYP": "00",
+          "BASME": "PCE",
+          "BBTYP": "Y",
+          "LAEDA": "20210316",
+          "LIQDT": "99991231",
+          "MATKL": "209",
+          "MHDHB": "0",
+          "MHDLP": "0",
+          "MHDRZ": "0",
+          "MTART": "YHAW",
+          "NTGEW": "452.000",
+          "VERNR": "000052"
+        },
+        "E1WBB03": {
+          "BREIT": "85.000",
+          "BRGEW": "452.000",
+          "E1WBB04": {
+            "EAN11": "4010355410016",
+            "EANTP": "HE",
+            "HPEAN": "X"
+          },
+          "E1WBB07": {
+            "DATAB": "20210320",
+            "DATBI": "99991231",
+            "E1WBB08": {
+              "CURCY": "EUR",
+              "KPEIN": "1",
+              "KWERT": "2.29",
+              "VORZN": "+"
+            },
+            "ETIME": "0000",
+            "KSCHL": "VKP0",
+            "STIME": "0000"
+          },
+          "GEWEI": "GRM",
+          "HOEHE": "210.000",
+          "KZAUSME": "X",
+          "KZBSTME": "X",
+          "LAENG": "45.000",
+          "MEABM": "MMT",
+          "MEINH": "PCE",
+          "UMREN": "1",
+          "UMREZ": "1",
+          "VOLEH": "DMQ",
+          "VOLUM": "0.803"
+        },
+        "E1WBB09": {
+          "ARANZ": "X",
+          "MSTDE": "00000000",
+          "MSTDV": "00000000",
+          "PRDRU": "X",
+          "VKDAB": "20201028",
+          "VKDBI": "99991231"
+        },
+        "E1WBB10": {
+          "MAKTM": "Balea Bodylotion    Urea           400ml",
+          "MTXID": "KTXT"
+        },
+        "E1WBB12": {
+          "ASORT": "YLB1",
+          "AUSDT": "00000000",
+          "DISMM": "",
+          "DISPO": "",
+          "EISBE": "0.000",
+          "EKGRP": "",
+          "LGRAD": "0.0",
+          "LI_PROC_ST": "",
+          "LSTAB": "20200324",
+          "LSTBI": "99991231",
+          "MABST": "0.000",
+          "MINBE": "0.000",
+          "PFLKS": "",
+          "SKTOF": "X",
+          "SSTUF": ""
+        },
+        "E1WBB16": {
+          "MWSKZ": "A1"
+        },
+        "E1WBB18": {
+          "E1WBB18_EXT": {
+            "FRONT": "              5.000",
+            "MAXB": "              8.000",
+            "PRABE": "              6.000",
+            "VERAB": "20200324",
+            "VERBI": "99991231"
+          },
+          "FACIN": "1.000",
+          "LAYGR": "YLB009",
+          "LAYVR": "YLB1LAYOUT",
+          "LEFT3": "175",
+          "LMVER": "0000",
+          "MELAY": "PCE",
+          "RIGHT3": "507",
+          "SHELF": "17",
+          "SORF": "17507",
+          "SORF1": "0000017507",
+          "numberOfFacings": "1",
+          "orientationYaw": "17",
+          "positionX": "07",
+          "shelfLayerId": "5"
+        },
+        "GLTAB": "20210320",
+        "GTIN": "000000000100002321",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB1",
+        "MATNR_LONG": "000000000100002321",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    }
+  ]
+}

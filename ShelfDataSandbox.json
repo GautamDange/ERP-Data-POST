@@ -1,0 +1,612 @@
+{
+  "data": {
+    "stores": [
+      {
+        "shelves": [
+          {
+            "id": "1586",
+            "externalReferenceId": "2",
+            "shelfLayers": [
+              {
+                "shelfId": 1586,
+                "level": 6,
+                "id": "1052",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 1586,
+                "level": 5,
+                "id": "1053",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1586,
+                "level": 4,
+                "id": "1054",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1586,
+                "level": 3,
+                "id": "1055",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1586,
+                "level": 2,
+                "id": "1056",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1586,
+                "level": 1,
+                "id": "1057",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1587",
+            "externalReferenceId": "3",
+            "shelfLayers": []
+          },
+          {
+            "id": "1588",
+            "externalReferenceId": "4",
+            "shelfLayers": []
+          },
+          {
+            "id": "1589",
+            "externalReferenceId": "5",
+            "shelfLayers": [
+              {
+                "shelfId": 1589,
+                "level": 6,
+                "id": "1100",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 1589,
+                "level": 5,
+                "id": "1101",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1589,
+                "level": 4,
+                "id": "1102",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1589,
+                "level": 3,
+                "id": "1103",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1589,
+                "level": 2,
+                "id": "1104",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1589,
+                "level": 1,
+                "id": "1105",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1590",
+            "externalReferenceId": "6",
+            "shelfLayers": [
+              {
+                "shelfId": 1590,
+                "level": 5,
+                "id": "1084",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1590,
+                "level": 4,
+                "id": "1085",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1590,
+                "level": 3,
+                "id": "1086",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1590,
+                "level": 2,
+                "id": "1087",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1590,
+                "level": 1,
+                "id": "1088",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1591",
+            "externalReferenceId": "7",
+            "shelfLayers": [
+              {
+                "shelfId": 1591,
+                "level": 4,
+                "id": "1080",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1591,
+                "level": 3,
+                "id": "1081",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1591,
+                "level": 2,
+                "id": "1082",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1591,
+                "level": 1,
+                "id": "1083",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1592",
+            "externalReferenceId": "8",
+            "shelfLayers": [
+              {
+                "shelfId": 1592,
+                "level": 7,
+                "id": "1121",
+                "externalReferenceId": "7"
+              },
+              {
+                "shelfId": 1592,
+                "level": 6,
+                "id": "1122",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 1592,
+                "level": 5,
+                "id": "1123",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1592,
+                "level": 4,
+                "id": "1124",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1592,
+                "level": 3,
+                "id": "1125",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1592,
+                "level": 2,
+                "id": "1126",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1592,
+                "level": 1,
+                "id": "1127",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1593",
+            "externalReferenceId": "9",
+            "shelfLayers": [
+              {
+                "shelfId": 1593,
+                "level": 6,
+                "id": "1058",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 1593,
+                "level": 5,
+                "id": "1059",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1593,
+                "level": 4,
+                "id": "1060",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1593,
+                "level": 3,
+                "id": "1061",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1593,
+                "level": 2,
+                "id": "1062",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1593,
+                "level": 1,
+                "id": "1063",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1594",
+            "externalReferenceId": "10",
+            "shelfLayers": []
+          },
+          {
+            "id": "1595",
+            "externalReferenceId": "11",
+            "shelfLayers": [
+              {
+                "shelfId": 1595,
+                "level": 6,
+                "id": "1128",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 1595,
+                "level": 5,
+                "id": "1129",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1595,
+                "level": 4,
+                "id": "1130",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1595,
+                "level": 3,
+                "id": "1131",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1595,
+                "level": 2,
+                "id": "1132",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1595,
+                "level": 1,
+                "id": "1133",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1596",
+            "externalReferenceId": "12",
+            "shelfLayers": [
+              {
+                "shelfId": 1596,
+                "level": 5,
+                "id": "1064",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1596,
+                "level": 4,
+                "id": "1065",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1596,
+                "level": 3,
+                "id": "1066",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1596,
+                "level": 2,
+                "id": "1067",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1596,
+                "level": 1,
+                "id": "1068",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1597",
+            "externalReferenceId": "13",
+            "shelfLayers": [
+              {
+                "shelfId": 1597,
+                "level": 6,
+                "id": "1074",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 1597,
+                "level": 5,
+                "id": "1075",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1597,
+                "level": 4,
+                "id": "1076",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1597,
+                "level": 3,
+                "id": "1077",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1597,
+                "level": 2,
+                "id": "1078",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1597,
+                "level": 1,
+                "id": "1079",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1598",
+            "externalReferenceId": "14",
+            "shelfLayers": [
+              {
+                "shelfId": 1598,
+                "level": 6,
+                "id": "1089",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 1598,
+                "level": 5,
+                "id": "1090",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1598,
+                "level": 4,
+                "id": "1091",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1598,
+                "level": 3,
+                "id": "1092",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1598,
+                "level": 2,
+                "id": "1093",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1598,
+                "level": 1,
+                "id": "1094",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1599",
+            "externalReferenceId": "15",
+            "shelfLayers": [
+              {
+                "shelfId": 1599,
+                "level": 6,
+                "id": "1106",
+                "externalReferenceId": "6"
+              },
+              {
+                "shelfId": 1599,
+                "level": 5,
+                "id": "1107",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1599,
+                "level": 4,
+                "id": "1108",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1599,
+                "level": 3,
+                "id": "1109",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1599,
+                "level": 2,
+                "id": "1110",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1599,
+                "level": 1,
+                "id": "1111",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1600",
+            "externalReferenceId": "16",
+            "shelfLayers": [
+              {
+                "shelfId": 1600,
+                "level": 5,
+                "id": "1095",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1600,
+                "level": 4,
+                "id": "1096",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1600,
+                "level": 3,
+                "id": "1097",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1600,
+                "level": 2,
+                "id": "1098",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1600,
+                "level": 1,
+                "id": "1099",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1601",
+            "externalReferenceId": "17",
+            "shelfLayers": [
+              {
+                "shelfId": 1601,
+                "level": 5,
+                "id": "1116",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1601,
+                "level": 4,
+                "id": "1117",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1601,
+                "level": 3,
+                "id": "1118",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1601,
+                "level": 2,
+                "id": "1119",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1601,
+                "level": 1,
+                "id": "1120",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1602",
+            "externalReferenceId": "18",
+            "shelfLayers": []
+          },
+          {
+            "id": "1603",
+            "externalReferenceId": "19",
+            "shelfLayers": [
+              {
+                "shelfId": 1603,
+                "level": 4,
+                "id": "1112",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1603,
+                "level": 3,
+                "id": "1113",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1603,
+                "level": 2,
+                "id": "1114",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1603,
+                "level": 1,
+                "id": "1115",
+                "externalReferenceId": "1"
+              }
+            ]
+          },
+          {
+            "id": "1585",
+            "externalReferenceId": "1",
+            "shelfLayers": [
+              {
+                "shelfId": 1585,
+                "level": 5,
+                "id": "1069",
+                "externalReferenceId": "5"
+              },
+              {
+                "shelfId": 1585,
+                "level": 4,
+                "id": "1070",
+                "externalReferenceId": "4"
+              },
+              {
+                "shelfId": 1585,
+                "level": 3,
+                "id": "1071",
+                "externalReferenceId": "3"
+              },
+              {
+                "shelfId": 1585,
+                "level": 2,
+                "id": "1072",
+                "externalReferenceId": "2"
+              },
+              {
+                "shelfId": 1585,
+                "level": 1,
+                "id": "1073",
+                "externalReferenceId": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
